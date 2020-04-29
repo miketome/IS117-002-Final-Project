@@ -1,0 +1,37 @@
+body{
+background-color:#a4bfb1;
+}
+#center {
+	display: inline-block;
+	text-align: center;
+	height: 750px;
+	background-color: #90ab9d;
+	
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.75rem;
+	z-index: 1;
+}
+#firstname{
+	margin-bottom: 50px;
+	
+}
+#lastname{
+	margin-bottom: 50px;
+}
+#email{
+	margin-bottom:50px;
+}
+#Button {
+  position: absolute;
+  right: 0;
+  margin-right: 10px;

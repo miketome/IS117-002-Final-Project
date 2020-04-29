@@ -1,0 +1,47 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.75rem;
+	z-index: 1;
+}
+#s4 img{
+	width: 500px;
+	
+}
+
+#s4 {
+	margin-top: 10px;
+	text-align: center;
+
+}
+
+#q7 {
+	margin-top: 10px;
+	text-align: center;
+	
+}
+
+#q7 img {
+	width: 500px;
+}
+#bodytext{
+text-align: center;
+border-style: solid;
+}
+#title{
+text-align: center;
+}
+body{
+background-color: #b7b2eb;
+}
+#Button {
+  position: absolute;
+  right: 0;
+  margin-right: 10px;
+

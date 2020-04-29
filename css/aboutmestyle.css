@@ -1,0 +1,49 @@
+
+#bio{
+	border-style: solid;
+	padding-left: 20px;
+	margin-top: 10px;
+}
+#bio p{
+font-size: 15px;
+width: auto;
+background-color:
+
+}
+#bio h1{
+	text-align: center;
+}
+#selfie {
+	margin-top: 10px;
+	text-align: center;
+	
+}
+
+#selfie img {
+	width: 300px;
+	
+	
+}
+
+body {
+	margin: 0;
+	background-color: #e1e3ca;
+}
+
+#Button {
+  position: absolute;
+  right: 0;
+  margin-right: 10px;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.75rem;
+	z-index: 1;
+}

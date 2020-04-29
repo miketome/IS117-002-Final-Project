@@ -1,0 +1,80 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.75rem;
+	z-index: 1;
+}
+
+
+
+
+#Cards img {
+  width: 250px;
+  border-radius: 3px;
+  align-content: space-around;
+
+}
+
+.ReviewCard {
+  text-align: center;
+  width: auto;
+  padding-top: 10px;
+  margin-bottom: 20px;
+}
+
+.imgBlur img{
+  border-radius: 4px;
+  transition: .3s;
+}
+
+.imgBlur:hover img {
+  filter: blur(2px);
+}
+
+.imgBlur :not(img){
+  top: 30%;
+  color: #fff;
+  text-align: center;
+}
+
+
+#Footer {
+    background-color: #E0E0E0;
+}
+
+
+#ReviewTitle {
+  text-align: center;
+}
+
+#Button {
+  position: absolute;
+  right: 0;
+  margin-right: 10px;
+}
+
+
+hr {
+  width: 85%;
+}
+
+.carouselOuter {
+	width: 100%;
+	text-align: center;
+	margin-top: 5px;
+	
+	
+}
+
+.carouselInner {
+	width: 85%;
+	display: inline-block;
+}
+
+
